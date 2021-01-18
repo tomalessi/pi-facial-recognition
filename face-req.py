@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Raspberry Pi Facial Recognition Setup Script
+# Raspberry Pi Facial Recognition
 # Copyright, Tom Alessi, 2021
 
 # Based on prior work done here:
