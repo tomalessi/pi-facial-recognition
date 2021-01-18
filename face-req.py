@@ -29,7 +29,7 @@ haar_file = '/usr/local/share/opencv4/haarcascades/haarcascade_frontalface_defau
 def take_photo(name):
     # Take photos of a person and store them in a known place for training.
     
-    # Create the dataset folder is not there
+    # Create the dataset folder if not there
     if not os.path.exists(data_dir + '/' + name):
         # Create a directory in the data folder for this person
         print("Creating photo data directory.")
